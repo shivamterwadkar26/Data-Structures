@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1791171114 source:c:\users\admin\desktop\1bm26cs467-t\infix_postfix\infix_postfix\infix_post.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1791171206 source:c:\users\admin\desktop\1bm26cs467-t\infix_postfix\infix_postfix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
